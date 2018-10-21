@@ -1,3 +1,5 @@
+BiRTS Yayınları
+
 1.	Danish Shehzad and Zeki Bozkuş, “Optimizing NEURON Simulation Environment Using Remote Memory Access with Recursive Doubling on Distributed Memory Systems,” Computational Intelligence and Neuroscience, vol. 2016, Article ID 3676582, 10 pages, 2016. doi:10.1155/2016/3676582
 
 2.	D. Shehzad and Z. Bozkus, "Optimizing NEURON brain simulator with Remote Memory Access on distributed memory systems," Emerging Technologies (ICET), 2015 International Conference on, Peshawar, 2015, pp. 1-5. doi: 10.1109/ICET.2015.7389167
